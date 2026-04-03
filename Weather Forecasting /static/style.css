@@ -1,0 +1,37 @@
+.jumbotron{
+  margin: 45px 30px 0px 30px;
+  border-radius: 10px;
+  background: url("images/img_login.png") center center / cover no-repeat;
+  opacity: 0.85;
+}
+body{
+    background-color: rgb(22, 22, 22);
+}
+.formtext{
+height: 2em;
+}
+.form{
+    margin-top:2em;
+}
+.btn{
+    margin-top: -0.3em;
+}
+.card{
+    margin: auto;
+    min-width: 300px;
+    margin: 2em;
+    border-radius: 10px;
+}
+.text-muted{
+    text-transform:capitalize;
+}
+.alert{
+    width:fit-content;
+    margin: auto;
+    margin-top:0.5em; 
+}
+.btn1{
+    margin: auto;
+    margin-bottom: 0.3em;
+    
+}
