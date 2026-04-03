@@ -53,10 +53,7 @@ This project uses SQLite database (`weather.db`) to store city names.
 
 ## 👩‍💻 Author
 
-Developed by **Your Name**
+Developed by Mukta Lackrany
 
 ---
 
-## 📬 Contact
-
-GitHub: https://github.com/your-username
